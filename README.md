@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Qais Al Alem.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Science using Python.
+- 👀 I am a Data Scientist.
 - 💞️ I’m looking to collaborate on Data sicence projects, perhaps within the Health sciences.
 - 📫 How to reach me: qais.al.alem@gmail.com
 
